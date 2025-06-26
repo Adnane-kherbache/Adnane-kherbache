@@ -9,7 +9,7 @@
 
 <!-- About me -->
 
-<img width="55%" align="right" alt="coding" src="https://th.bing.com/th/id/R.e4dd9caa01e46fcbce508da625f899f1?rik=P%2bD0lqmL8TCwBA&pid=ImgRaw&r=0" />
+<img width="55%" align="right" alt="coding"style="border-reduis: 2px;" src="https://th.bing.com/th/id/R.e4dd9caa01e46fcbce508da625f899f1?rik=P%2bD0lqmL8TCwBA&pid=ImgRaw&r=0" />
 
 
 
