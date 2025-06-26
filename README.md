@@ -1,10 +1,9 @@
-<!-- Your title -->
+<!-- Title -->
 ## Hi, I'm Adnane Kherbache, a Math & Computer Science Student 🇲🇦
 
 <!-- Social Media Badges -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adnanekherbache)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adnane.kherbache@gmail.com)
 
 &nbsp;
 
@@ -14,32 +13,53 @@
 <img width="45%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🎓 I’m a 3rd-year student majoring in **Math and Computer Science**.
-- 🌍 From Morocco 🇲🇦, currently 22 years old.
-- 💻 I’m passionate about web development and system programming.
-- 🌱 Always learning — currently diving deeper into algorithms and system architecture.
-- 🤝 Open to collaboration on academic or open-source projects.
-- ⚡ Fun Fact: I love teamwork, problem solving, and staying active through sports 🏃.
-
-**🧠 Technical Skills:**
-
-- **Web Development:** HTML, CSS, JavaScript  
-- **Programming Languages:** C, C++, Python  
-- **Database & Backend:** SQL (Oracle), Shell scripting, Linux (OS + Bash), Assembly  
-- **Computer Science Concepts:** Data Structures, Algorithms  
-- **Math:** Advanced Algebra and Analysis  
-- **Languages:** Arabic (native), English (advanced), French (B1)
-
-**💡 Soft Skills:**
-
-- Teamwork & Collaboration  
-- Time Management  
-- Critical Thinking  
-- Communication  
-- Adaptability  
+- 🌍 From Morocco 🇲🇦, 22 years old.
+- 💻 I’m passionate about both theoretical and applied computer science.
+- 🌱 Currently learning advanced algorithms, system-level programming, and applied mathematics.
+- 🤝 Open to collaborating on educational and open-source projects.
+- 💬 Ask me about anything in my skillset — I'm happy to help!
+- ⚡ Fun Fact: I enjoy sports, solving math puzzles, and working in a team environment.
 
 ---
 
-<!-- Languages and Tools Section -->
+**💻 Tech & Programming Skills:**
+
+- **Web Development:** HTML, CSS, JavaScript  
+- **Programming Languages:** C, C++, Python  
+- **Databases:** SQL (Oracle)  
+- **Operating Systems & Tools:** Linux (OS + Shell Scripting), Assembly language  
+- **CS Concepts:** Data Structures, Algorithms  
+- **Tools:** Git, Bash, Visual Studio Code, GCC, GDB  
+
+---
+
+**📐 Mathematics Skills:**
+
+- Advanced Mathematics  
+- Algebra  
+- Real & Complex Analysis  
+
+---
+
+**🗣 Language Skills:**
+
+- 🇲🇦 Arabic: Native  
+- 🇬🇧 English: Advanced  
+- 🇫🇷 French: Intermediate (B1 level)
+
+---
+
+**🧠 Soft Skills:**
+
+- Teamwork & Collaboration 🤝  
+- Communication 🗣  
+- Time Management ⏳  
+- Problem Solving 🧩  
+- Critical Thinking 🧠  
+- Fast Learner 🚀  
+
+---
+
 **🛠 Tools & Technologies:**
 
 <p>
@@ -53,30 +73,31 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
 ---
 
-<!-- Github Stats -->
+<!-- GitHub Stats -->
 <p>
-  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" />
+  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=adnanekherbache&show_icons=true&hide_border=true&theme=radical" />
 </p>
 
 ---
 
-<!-- Projects Section (optional) -->
-<!-- Add pinned projects later when you upload some -->
+<!-- Projects (Optional: Add real repos when you upload them) -->
 <!--
 <p align="center">
-  <a href="https://github.com/your-username/your-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project" />
+  <a href="https://github.com/adnanekherbache/project-name">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adnanekherbache&repo=project-name&theme=radical" />
   </a>
 </p>
 -->
 
-<!-- Footer -->
+<!-- Views -->
 <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearned.today/views/github/your-username/your-username.svg" />
+  <img alt="ViewCount" src="https://views.whatilearned.today/views/github/adnanekherbache/adnanekherbache.svg" />
 </p>
 
-<!-- This README was customized for Adnane Kherbache -->
+<!-- Footer -->
+<p align="center">📌 This README was created by Adnane Kherbache — feel free to connect!</p>
