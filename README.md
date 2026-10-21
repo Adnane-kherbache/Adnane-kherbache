@@ -47,7 +47,6 @@
 - Arabic (Native)  
 - English (Advanced)  
 - French (B1)  
-- German (B2)
 
 *🧠 Soft Skills*
 - Teamwork & Communication  
