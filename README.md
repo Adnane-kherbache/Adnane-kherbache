@@ -19,8 +19,8 @@
 
 
 ### 👨‍🎓 About Me:
-- 📚 I’m a **3rd-year** student majoring in **Mathematics and Computer Science**
-- 🌍 From **Morocco**, 22 years old
+- 📚 I’m a **first-year** Master's student in **AI & Emerging Technologies**
+- 🌍 From **Morocco**, 23 years old
 - 💻 Passionate about technology, algorithms, and logic
 - 🧠 I love solving problems, learning systems programming, and analyzing mathematical theories
 - 🤝 I enjoy **collaborating**, **teamwork**, and building meaningful projects
@@ -34,7 +34,9 @@
 - *Web Development*: HTML, CSS, JavaScript  
 - *Languages*: C, C++, Python  
 - *Data Structures & Algorithms*  
-- *Assembly Language*  
+- *Assembly Language*
+- *Flask, SQLAlchemy*
+- *Machine Learning*
 
 *🗄 Databases & Systems*
 - *SQL (Oracle)*  
@@ -90,21 +92,11 @@
 - 🧠 Learning **systems programming** and **low-level development**
 - 🌐 Improving my **web development** skills with real-world practice
 - 🧪 Exploring personal projects and preparing for **open-source contributions**
-- 🎯 Goal: Build and deploy my first full-stack application in the coming months!
+- 🎯 Goal: AI engineering and software development
 
 ---
 
-### 🚀 What I'm Currently Focused On:
-
-- 📚 Deepening my knowledge in **algorithms and data structures**
-- 🧠 Learning **systems programming** and **low-level development**
-- 🌐 Improving my **web development** skills with real-world practice
-- 🧪 Exploring personal projects and preparing for **open-source contributions**
-- 🎯 Goal: Build and deploy my first full-stack application in the coming months!
-
----
-
-### 📌 Featured Project (Coming Soon!)
+### 📌 Featured Project 
 
 <p align="center">
   <a href="https://github.com/adnane-x/my-first-project">
